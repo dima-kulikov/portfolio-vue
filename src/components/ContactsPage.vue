@@ -8,23 +8,23 @@ const { t } = useI18n();
 const contacts = [
   {
     href: "https://t.me/dai_skaizy",
-    icon: "/img/icons/telegram.svg",
+    icon: "./img/icons/telegram.svg",
     alt: "telegram",
   },
   {
     href: "mailto:skaizy44@gmail.com",
-    icon: "/img/icons/mail.svg",
+    icon: "./img/icons/mail.svg",
     alt: "mail",
   },
   {
     href: "https://github.com/dima-kulikov",
-    icon: "/img/icons/github.svg",
+    icon: "./img/icons/github.svg",
     alt: "github",
     target: "_blank",
   },
   {
     href: "https://www.linkedin.com/in/dmitriy-kulikov-1373651aa/",
-    icon: "/img/icons/linkedIn.svg",
+    icon: "./img/icons/linkedIn.svg",
     alt: "linkedin",
     target: "_blank",
   },

@@ -6,7 +6,9 @@ export const useBannersStore = defineStore("banners", () => {
 
   const loadBanners = async (lang) => {
     try {
-      const res = await fetch(`/homepageBanners-${lang}.json`);
+      const res = await fetch(
+        `${import.meta.env.BASE_URL}homepageBanners-${lang}.json`,
+      );
       if (!res.ok) throw new Error("Failed to load banner");
       allBanners.value = await res.json();
     } catch (err) {

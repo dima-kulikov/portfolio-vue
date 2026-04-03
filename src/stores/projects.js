@@ -8,7 +8,9 @@ export const useProjectsStore = defineStore("projects", () => {
 
   const loadProjects = async (lang) => {
     try {
-      const res = await fetch(`/projects-${lang}.json`);
+      const res = await fetch(
+        `${import.meta.env.BASE_URL}projects-${lang}.json`,
+      );
       if (!res.ok) throw new Error("Failed to load projects");
       projects.value = await res.json();
     } catch (err) {

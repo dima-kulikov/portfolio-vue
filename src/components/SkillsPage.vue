@@ -62,7 +62,7 @@ const skills = [
         <img
           v-for="number in 7"
           :key="number"
-          :src="`/img/certificates/${number}.jpg`"
+          :src="`./img/certificates/${number}.jpg`"
           alt="Certificate"
           @click="openImgtModal(number)"
           class="cursor-pointer"

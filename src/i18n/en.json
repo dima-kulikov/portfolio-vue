@@ -1,0 +1,49 @@
+{
+  "header": {
+    "logo": "Portfolio",
+    "home": "Home",
+    "skills": "Skills",
+    "contacts": "Contacts"
+  },
+  "projects": {
+    "title": "My Projects"
+  },
+  "skillsPage": {
+    "title": "My Skills",
+    "certificates": "Certificates"
+  },
+  "contactsPage": {
+    "title": "Contact",
+    "description": "I’m always happy to connect! Send me a message on LinkedIn or Telegram, or drop an email, and I’ll get back to you promptly."
+  },
+  "modals": {
+    "projects": {
+      "stack": "Tech Stack:",
+      "btn-git": "GitHub",
+      "btn-site": "Site"
+    }
+  },
+  "footer": {
+    "name": "Dmytro Kul",
+
+    "sections": {
+      "contacts": "Contacts:",
+      "builtWith": "Built with:"
+    },
+
+    "nav": {
+      "title": "Navigation:",
+      "home": "Home",
+      "skills": "Skills",
+      "contact": "Contact"
+    },
+
+    "links": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn"
+    },
+
+    "description": "Frontend developer focused on building modern and responsive web applications.",
+    "copyright": "© 2026 Dmytro Kul. All rights reserved."
+  }
+}

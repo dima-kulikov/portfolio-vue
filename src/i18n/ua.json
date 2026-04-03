@@ -1,0 +1,49 @@
+{
+  "header": {
+    "logo": "Портфоліо",
+    "home": "Головна",
+    "skills": "Навички",
+    "contacts": "Контакти"
+  },
+  "projects": {
+    "title": "Мої проекти"
+  },
+  "skillsPage": {
+    "title": "Мої навички",
+    "certificates": "Сертифікати"
+  },
+  "contactsPage": {
+    "title": "Контакти",
+    "description": "Я завжди радий поспілкуватися! Напишіть мені в LinkedIn або Telegram, або надішліть email, і я швидко відповім."
+  },
+  "modals": {
+    "projects": {
+      "stack": "Тухнології:",
+      "btn-git": "ГітХаб",
+      "btn-site": "Сайт"
+    }
+  },
+  "footer": {
+    "name": "Дмитро Кул",
+
+    "sections": {
+      "contacts": "Контакти",
+      "builtWith": "Створено з використанням"
+    },
+
+    "nav": {
+      "title": "Навігація",
+      "home": "Головна",
+      "skills": "Навички",
+      "contact": "Контакти"
+    },
+
+    "links": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn"
+    },
+
+    "description": "Frontend розробник, який створює сучасні та адаптивні веб-додатки.",
+    "copyright": "© 2026 Дмитро Кул. Усі права захищені."
+  }
+}

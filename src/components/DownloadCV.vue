@@ -1,5 +1,7 @@
 <script setup>
 import BaseButton from "./base/BaseButton.vue";
+
+const base = import.meta.env.BASE_URL;
 </script>
 
 <template>
@@ -14,12 +16,26 @@ import BaseButton from "./base/BaseButton.vue";
       class="relative rounded-md w-full h-full shadow-dark bg-light dark:bg-dark p-4 flex flex-col items-center justify-center"
     >
       <p class="text-2xl dark:text-light text-darkLight text-center">
-        Want to learn more about my experience?
+        {{ $t("downloadCV.title") }}
       </p>
-      <p class="text-xl dark:text-light text-darkLight">Download CV:</p>
+      <p class="text-xl dark:text-light text-darkLight">
+        {{ $t("downloadCV.description") }}
+      </p>
       <div class="flex gap-2 mt-4">
-        <BaseButton class="h-11 min-w-[100px]">EN</BaseButton>
-        <BaseButton class="h-11 min-w-[100px]">UA</BaseButton>
+        <BaseButton
+          link
+          target="_blank"
+          :href="`${base}pdfs/Dmytro-Kylikov-CV-EN.pdf`"
+          class="h-11 min-w-[100px]"
+          >{{ $t("downloadCV.btn-en") }}</BaseButton
+        >
+        <BaseButton
+          link
+          target="_blank"
+          :href="`${base}pdfs/Dmytro-Kylikov-CV-UA.pdf`"
+          class="h-11 min-w-[100px]"
+          >{{ $t("downloadCV.btn-ua") }}</BaseButton
+        >
       </div>
     </div>
   </div>

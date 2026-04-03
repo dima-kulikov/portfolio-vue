@@ -23,6 +23,12 @@
       "btn-site": "Site"
     }
   },
+  "downloadCV": {
+    "title": "Want to learn more about my experience?",
+    "description": "Download CV:",
+    "btn-en": "EN",
+    "btn-ua": "UA"
+  },
   "footer": {
     "name": "Dmytro Kul",
 

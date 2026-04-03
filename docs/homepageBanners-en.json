@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Hi, my name is Dima",
+    "text1": "a frontend developer",
+    "text2": "with passion for learning and creating.",
+    "img1": "3",
+    "img2": "1"
+  },
+  {
+    "title": "Work with Vue.js",
+    "text1": "Using modern web technologies",
+    "text2": "to build UI/UX",
+    "img1": "6",
+    "img2": "5"
+  },
+  {
+    "title": "Landing Page",
+    "text1": "Creating responsive layouts",
+    "text2": "for any project",
+    "img1": "2",
+    "img2": "4"
+  },
+  {
+    "title": "Email Templates",
+    "text1": "Crafting responsive MJML emails",
+    "text2": "Clean and compatible with major email clients",
+    "img1": "1",
+    "img2": "7"
+  }
+]

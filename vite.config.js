@@ -7,10 +7,16 @@ import svgLoader from "vite-svg-loader";
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/portfolio-vue/",
+
   plugins: [vue(), vueDevTools(), svgLoader()],
   resolve: {
     alias: {
       "@": fileURLToPath(new URL("./src", import.meta.url)),
     },
+  },
+
+  build: {
+    outDir: "docs",
   },
 });

@@ -1,0 +1,234 @@
+[
+  {
+    "img": "project-33.jpg",
+    "title": "Улюблені фільми",
+    "desc": "html, tailwind, vue, pinia",
+    "filter": "VUE 3",
+    "git": "https://github.com/dima-kulikov/vue3-favorite-movies",
+    "site": "https://dima-kulikov.github.io/vue3-favorite-movies/#/"
+  },
+  {
+    "img": "project-01.jpg",
+    "title": "Сторінка співпраці з військовими",
+    "desc": "html, Gulp, Less, JS, Swiper Slider",
+    "filter": "Dnipro-m",
+    "git": "",
+    "site": "https://dnipro-m.ua/volonteram-zsu/"
+  },
+  {
+    "img": "project-04.jpg",
+    "title": "Sub Surf",
+    "desc": "html, CSS",
+    "filter": "Лендінг",
+    "git": "https://github.com/dima-kulikov/sub-surf-landing-page",
+    "site": "https://dima-kulikov.github.io/sub-surf-landing-page/"
+  },
+  {
+    "img": "project-34.jpg",
+    "title": "Письмо",
+    "desc": "MJML",
+    "filter": "Пошта",
+    "git": "https://github.com/dima-kulikov/corsa-email",
+    "site": "https://dima-kulikov.github.io/corsa-email/"
+  },
+  {
+    "img": "project-02.jpg",
+    "title": "Сторінка доставки та оплати",
+    "desc": "html, Gulp, Less, JS",
+    "filter": "Dnipro-m",
+    "git": "",
+    "site": "https://dnipro-m.ua/dostavka-i-oplata/"
+  },
+  {
+    "img": "project-03.jpg",
+    "title": "Чорна п’ятниця",
+    "desc": "html, Gulp, Less, JS, CSS animation(transition/@keyframes)",
+    "filter": "Dnipro-m",
+    "git": "https://github.com/dima-kulikov/Black-friday-DM",
+    "site": "https://dima-kulikov.github.io/Black-friday-DM/build/index.html"
+  },
+  {
+    "img": "project-31.jpg",
+    "title": "Гемблінг",
+    "desc": "html, css, gulp, js",
+    "filter": "Лендінг",
+    "git": "https://github.com/dima-kulikov/Wl-landing",
+    "site": "https://dima-kulikov.github.io/Wl-landing/"
+  },
+  {
+    "img": "project-05.jpg",
+    "title": "Стартап",
+    "desc": "html, Gulp, Less, JS",
+    "filter": "Лендінг",
+    "git": "https://github.com/dima-kulikov/Startup-landing2",
+    "site": "https://dima-kulikov.github.io/Startup-landing2/build/index.html"
+  },
+  {
+    "img": "project-30.jpg",
+    "title": "Гемблінг",
+    "desc": "html, css, gulp, js",
+    "filter": "Лендінг",
+    "git": "https://github.com/dima-kulikov/Corsa-landing",
+    "site": "https://dima-kulikov.github.io/Corsa-landing/"
+  },
+  {
+    "img": "project-06.jpg",
+    "title": "Ставки на спорт",
+    "desc": "html, Gulp, JS, CSS animation(transition/@keyframes)",
+    "filter": "Лендінг",
+    "git": "https://github.com/dima-kulikov/sport-betting",
+    "site": "https://dima-kulikov.github.io/sport-betting/build/index.html"
+  },
+  {
+    "img": "project-08.jpg",
+    "title": "Міні тест",
+    "desc": "html, Gulp, Less, JS",
+    "filter": "Різне",
+    "git": "https://github.com/dima-kulikov/dashboard",
+    "site": "https://dima-kulikov.github.io/knowledge-of-Ukraine/dist/index.html"
+  },
+  {
+    "img": "project-09.jpg",
+    "title": "Підбір кольору авто",
+    "desc": "html, Gulp, Less, JS -- only PC version",
+    "filter": "Різне",
+    "git": "https://github.com/dima-kulikov/car-selection",
+    "site": "https://dima-kulikov.github.io/car-selection/build/index.html"
+  },
+  {
+    "img": "project-10.jpg",
+    "title": "Заробіток в інтернеті",
+    "desc": "html, CSS, JS",
+    "filter": "Різне",
+    "git": "",
+    "site": "https://rabotu.net/"
+  },
+  {
+    "img": "project-11.jpg",
+    "title": "Подія Mozgi",
+    "desc": "html, Gulp, JS, CSS animation(transition/@keyframes)",
+    "filter": "Різне",
+    "git": "https://github.com/dima-kulikov/mozgi",
+    "site": "https://dima-kulikov.github.io/mozgi/dist/index.html"
+  },
+  {
+    "img": "project-12.jpg",
+    "title": "Анімація / паралакс",
+    "desc": "html, Gulp, JS, CSS animation(transition/@keyframes)",
+    "filter": "Різне",
+    "git": "https://github.com/dima-kulikov/parallax",
+    "site": "https://dima-kulikov.github.io/parallax/build/index.html"
+  },
+  {
+    "img": "project-13.jpg",
+    "title": "Опис дизайну продукту",
+    "desc": "html, Gulp, JS,Less",
+    "filter": "Dnipro-m",
+    "git": "",
+    "site": "https://dnipro-m.ua/tovar/akkumulyatornaya-otvertka-csd-36x/"
+  },
+  {
+    "img": "project-14.jpg",
+    "title": "Опис дизайну продукту",
+    "desc": "html, Gulp, JS,Less",
+    "filter": "Dnipro-m",
+    "git": "",
+    "site": "https://dnipro-m.ua/tovar/akkumulyatornaya-shlifmashina-sg-12bc-ultra/"
+  },
+  {
+    "img": "project-15.jpg",
+    "title": "Опис дизайну продукту",
+    "desc": "html, Gulp, JS,Less",
+    "filter": "Dnipro-m",
+    "git": "",
+    "site": "https://dnipro-m.ua/tovar/akkumulyatornaya-batareya-k-shurupovertu-bp-240/"
+  },
+  {
+    "img": "project-16.jpg",
+    "title": "Опис дизайну продукту",
+    "desc": "html, Gulp, JS,Less",
+    "filter": "Dnipro-m",
+    "git": "",
+    "site": "https://dnipro-m.ua/tovar/mojka-vysokogo-davleniya-pw-16b-2021/"
+  },
+  {
+    "img": "project-20.jpg",
+    "title": "Кошик магазину",
+    "desc": "JSX, React, Sass",
+    "filter": "React JS",
+    "git": "https://github.com/dima-kulikov/furniture-store-react",
+    "site": "https://dima-kulikov.github.io/furniture-store-react/"
+  },
+  {
+    "img": "project-32.jpg",
+    "title": "Гемблінг",
+    "desc": "html, css, gulp, js",
+    "filter": "Лендінг",
+    "git": "https://github.com/dima-kulikov/Sk-landing",
+    "site": "https://dima-kulikov.github.io/Sk-landing/"
+  },
+  {
+    "img": "project-21.jpg",
+    "title": "Intersection Observer",
+    "desc": "html, css, js",
+    "filter": "Різне",
+    "git": "https://github.com/dima-kulikov/Intersection-Observer",
+    "site": "https://dima-kulikov.github.io/Intersection-Observer/"
+  },
+  {
+    "img": "project-22.jpg",
+    "title": "Сучасний інтер’єр",
+    "desc": "JSX, React, Sass",
+    "filter": "React JS",
+    "git": "https://github.com/dima-kulikov/Landing-Modern-Interior--react",
+    "site": "https://dima-kulikov.github.io/Landing-Modern-Interior--react/"
+  },
+  {
+    "img": "project-27.jpg",
+    "title": "Додаток погоди",
+    "desc": "html, css, vue",
+    "filter": "VUE 3",
+    "git": "https://github.com/dima-kulikov/vue3-weather-app",
+    "site": "https://glittery-croquembouche-472acb.netlify.app/"
+  },
+  {
+    "img": "project-23.jpg",
+    "title": "Простий калькулятор",
+    "desc": "html, css, vue",
+    "filter": "VUE 3",
+    "git": "https://github.com/dima-kulikov/vue3-calculator",
+    "site": "https://dima-kulikov.github.io/vue3-calculator/"
+  },
+  {
+    "img": "project-25.jpg",
+    "title": "Генератор фігур",
+    "desc": "html, css, js",
+    "filter": "Різне",
+    "git": "https://codepen.io/skaizy/pen/rNdXaep",
+    "site": "https://codepen.io/skaizy/full/rNdXaep"
+  },
+  {
+    "img": "project-26.jpg",
+    "title": "V-Twitter",
+    "desc": "html, css, vue",
+    "filter": "VUE 3",
+    "git": "https://github.com/dima-kulikov/vue3-vtwitter",
+    "site": "https://deluxe-truffle-6eca89.netlify.app/"
+  },
+  {
+    "img": "project-29.jpg",
+    "title": "Гемблінг",
+    "desc": "html, css, gulp, js",
+    "filter": "Лендінг",
+    "git": "https://github.com/dima-kulikov/Batf-landing",
+    "site": "https://dima-kulikov.github.io/Batf-landing/"
+  },
+  {
+    "img": "project-35.jpg",
+    "title": "Письмо",
+    "desc": "MJML",
+    "filter": "Пошта",
+    "git": "https://github.com/dima-kulikov/gz-email",
+    "site": "https://dima-kulikov.github.io/gz-email/"
+  }
+]
